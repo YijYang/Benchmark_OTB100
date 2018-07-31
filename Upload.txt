@@ -1,3 +1,6 @@
 Due to the file is too large, I uploaded the file to my Baidu cloud disk.
 Here is the upload link: https://pan.baidu.com/s/1lbM3Q1hk7PGkjJ0kpnbdJQ
                password: xaq2
+
+Benchmark_sequences.rar includes 100 videos in OTB-100;
+tracker_benchmark-v1.0.rar includes the test code and the experiment results.
